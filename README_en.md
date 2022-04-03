@@ -26,4 +26,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/alimsoftware?style=social)
 ![](https://komarev.com/ghpvc/?username=alimsoftware&color=2196f3)
 
-[Português](https://github.com/tuyafeng/Via/blob/master/README.md)
+[Português](https://github.com/Alimsoftware/alimsoftware/main/README.md)
