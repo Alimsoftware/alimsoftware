@@ -15,7 +15,7 @@
 ### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=alimsoftware&show_icons=true&icon_color=D32F2F&theme=dark&title_color=blueviolet&count_private=true&include_all_commits=true)
 
-#### Languages
+### Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alimsoftware&title_color=blueviolet&theme=dark&langs_count=3&hide=javascript,html,roff,assembly,objective-c,xsslt)
 
 ### Contacts:
