@@ -1,9 +1,9 @@
 ## 👋 Olá! Bem-vindo ao meu perfil no Github.
-### Me chamo Alison, sou Técnico em Informática e estudo Programação!
+### Técnico em Informática!
 #### Me aventuro a fazer mods, apps e traduções.
 
 #### Onde é que tô?
-   - 🌍 Piauí - Brasil :brazil:
+   - 🌍 Goiás - Brasil :brazil:
 
 ### Estudando no momento
 
@@ -12,7 +12,7 @@
 ### Atualmente traduzindo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jindrapetrik&repo=jpexs-decompiler&show_owner=true&show_icons=true&icon_color=D32F2F&theme=dark&title_color=blueviolet&locale=pt-BR)](https://github.com/jindrapetrik/github-readme-stats)
 
-### Status GitHub
+### Estatísticas do GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=alimsoftware&show_icons=true&icon_color=D32F2F&theme=dark&title_color=blueviolet&locale=pt-BR&count_private=true&include_all_commits=true)
 
 ### Linguagens
