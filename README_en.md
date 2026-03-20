@@ -1,13 +1,13 @@
 ## 👋 Hello! Welcome to my GitHub profile.
-### My name is Alison, I'm an IT Technician and I study Programming!
+### I'm an IT Technician!
 #### I like to make mods, apps, and translations.
 
 #### Where am I from?
-   - 🌍 Piauí - Brazil :brazil:
+   - 🌍 Goiás - Brazil :brazil:
 
 ### Currently studying
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40"/> <img src="https://plugins.jetbrains.com/files/7385/84140/icon/default.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40"/> <img src="https://plugins.jetbrains.com/files/7385/84140/icon/default.svg" width="40" height="40"/>
 
 ### Currently translating
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jindrapetrik&repo=jpexs-decompiler&show_owner=true&show_icons=true&icon_color=D32F2F&theme=dark&title_color=blueviolet)](https://github.com/jindrapetrik/github-readme-stats)
