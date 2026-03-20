@@ -7,7 +7,7 @@
 
 ### Estudando no momento
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40"/> <img src="https://plugins.jetbrains.com/files/7385/84140/icon/default.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40"/> <img src="https://plugins.jetbrains.com/files/7385/84140/icon/default.svg" width="40" height="40"/>
 
 ### Atualmente traduzindo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jindrapetrik&repo=jpexs-decompiler&show_owner=true&show_icons=true&icon_color=D32F2F&theme=dark&title_color=blueviolet&locale=pt-BR)](https://github.com/jindrapetrik/github-readme-stats)
